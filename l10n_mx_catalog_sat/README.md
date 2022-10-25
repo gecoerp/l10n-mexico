@@ -9,11 +9,10 @@
 ## Autores
 ## GECOERP
 
-## Colaboradore
+## Colaboradores
+GECOERP:
 
-## GECOERP:
-
-* Manuel Cabañas <manuel.cabanas@gecoerp.com>
+- Manuel Cabañas <manuel.cabanas@gecoerp.com>
 
 Este módulo es parte del proyecto gecoerp/l10n-mexico en GitHub.
 
