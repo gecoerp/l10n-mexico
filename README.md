@@ -5,6 +5,7 @@ Localización Mexicana
 | COMPLEMENTO | VERSION | COLABORADORES | RESUMEN |
 | ------ | ------ | ------ | ------ |
 | [l10n_mx_catalog_sat](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_catalog_sat) | 16.01 | | Catálogos SAT |
+| [l10n_mx_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_edi) | 16.01 | | Facturación CFDI 4.0 |
 
 # Licenses
 * This repository is licensed under (LGPL-V3)
