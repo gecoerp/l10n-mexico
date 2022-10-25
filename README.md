@@ -1,6 +1,11 @@
 # l10n-mexico
 Localización Mexicana
 
+## Complementos Disponibles
+| Plugin | VERSION | RESPONSABLE | RESUMEN |
+| ------ | ------ | ------ | ------ |
+| l10n_mx_catalog_sat | 16.01 | | Catálogos SAT |
+
 # Licenses
 * This repository is licensed under (LGPL-V3)
 * However, each module can have a totally different license. Consult each module's __manifest__.py file, which contains a license key that explains its license.
