@@ -3,7 +3,7 @@ Localización Mexicana
 
 [//]: # (addons)
 
-## Complementos Disponibles
+## Modulos Disponibles
 | MODULO | VERSION | COLABORADORES | RESUMEN | LICENCIA |
 | ------ | ------ | ------ | ------ | ------ |
 | [l10n_mx_catalog_sat](l10n_mx_catalog_sat/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Catálogos SAT | [OPL-1](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
