@@ -6,6 +6,7 @@ Localización Mexicana
 | ------ | ------ | ------ | ------ |
 | [l10n_mx_catalog_sat](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_catalog_sat) | 16.01 | | Catálogos SAT |
 | [l10n_mx_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_edi) | 16.01 | | Facturación CFDI 4.0 |
+| [l10n_mx_hr](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_hr) | 16.01 | | Tinbrado de Nómina CFDI 4.0 y Complemento de Nómina 1.2 |
 
 # Licenses
 * This repository is licensed under (LGPL-V3)
