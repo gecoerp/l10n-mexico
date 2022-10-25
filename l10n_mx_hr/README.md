@@ -1,6 +1,6 @@
 # l10n_mx_hr
 Localización Mexicana HRMS
-Sistema de de recursos hunanos, calculo de nómina, timbrado CFDI 4.0 y complemento 1.2 en Odoo y GECOERP
+Sistema de de recursos humanos, calculo de nómina, timbrado CFDI 4.0 y complemento 1.2 en Odoo y GECOERP
 
 * Free software: gecoerp Licence (LGPL-v3)
 * Documentation: https://www.gecoerp.mx/
