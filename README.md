@@ -4,7 +4,7 @@ Localización Mexicana
 ## Complementos Disponibles
 | Plugin | VERSION | RESPONSABLE | RESUMEN |
 | ------ | ------ | ------ | ------ |
-| l10n_mx_catalog_sat | 16.01 | | Catálogos SAT |
+| [l10n_mx_catalog_sat](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_catalog_sat) | 16.01 | | Catálogos SAT |
 
 # Licenses
 * This repository is licensed under (LGPL-V3)
