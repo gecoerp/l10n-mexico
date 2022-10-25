@@ -11,7 +11,7 @@
     'license': 'OPL-1',  
     'author': 'Manuel Cabañas, GECOERP',
     'website': 'https://www.gecoerp.com',  
-    'version': '16.01',
+    'version': '16.0.1',
     'maintainers': ["gecoerp"],  
     'depends': [
         'sale','account','purchase'
@@ -22,4 +22,6 @@
     'post_init_hook': 'post_init_hook',
     'application': False,
     'installable': True,
+    'price':0.0,
+    'currency':'USD',
 }
