@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Copyright (C) 2022 GECOERP (http://www.gecoerp.com/)
 # @author: Manuel Cabañas <manuel.cabanas@gecoerp.com>
-# License OPL-1 (https://www.gnu.org/licenses/license-list.html#OpenPublicationL).
+# License OPL-1 Open Content License, versión 1.0 (https://www.gnu.org/licenses/license-list.html#OpenContentL).
 
 {
     'name': 'Catálogos para Facturación Electrónica CFDI 4.0 (Mexico)',
