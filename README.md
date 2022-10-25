@@ -10,6 +10,8 @@ Localización Mexicana
 | [l10n_mx_hr_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_hr_edi) | 16.0.1 | | Timbrado de Nómina CFDI 4.0 y Complemento de Nómina 1.2 | [OPL-1](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
 | [l10n_mx_tms](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_tms) | 16.0.1 | | Gestión de Transporte | [OPL-1](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
 | [l10n_mx_tms_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_tms_edi) | 16.0.1 | | Timbrado de Carta Porte Simplificada y Complemento de Carreteras Federales | [OPL-1](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
+| [l10n_mx_pac_gecoerp](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_pac_gecoerp) | 16.0.1 | | Proveedor de Certificación CFDI 4.0 | [OPL-1](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
+
 
 # Licenses
 * This repository is licensed under (LGPL-V3)
