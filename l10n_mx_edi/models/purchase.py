@@ -6,17 +6,17 @@ import ast
 class PurchaseOrder(models.Model):
     _inherit = 'purchase.order'
     
-    TipoDeComprobante = fields.Selection(
+    tipo_de_comprobante = fields.Selection(
         selection=[('I', 'Ingreso'), 
                    ('E', 'Egreso'),
                    ('T', 'Traslado'),
                    ('P', 'Nómina'),],
-        string=_('Tipo de Comprobante'),
+        string='Tipo de Comprobante',
     )
     
     forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de Pago')
     
-    methodo_pago = fields.Selection(
+    metodo_de_pago = fields.Selection(
         selection=[('PUE', _('Pago en una sola exhibición')),
                    ('PPD', _('Pago en parcialidades o diferido')),],
         string=_('Método de Pago'), 
