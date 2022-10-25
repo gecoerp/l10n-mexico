@@ -25,3 +25,4 @@
     'price':0.0,
     'currency':'USD',
 }
+# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
