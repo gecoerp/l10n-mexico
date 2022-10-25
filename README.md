@@ -8,6 +8,8 @@ Localización Mexicana
 | [l10n_mx_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_edi) | 16.01 | | Facturación CFDI 4.0 | LGPL-V3 |
 | [l10n_mx_hr](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_hr) | 16.01 | | Recursos Humanos y Nómina | LGPL-V3 |
 | [l10n_mx_hr_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_hr_edi) | 16.01 | | Timbrado de Nómina CFDI 4.0 y Complemento de Nómina 1.2 | LGPL-V3 |
+| [l10n_mx_tms](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_tms) | 16.01 | | Gestión de Transporte | LGPL-V3 |
+| [l10n_mx_tms_edi](https://github.com/gecoerp/l10n-mexico/tree/main/l10n_mx_tms_edi) | 16.01 | | Timbrado de Carta Porte Simplificada y Complemento de Carreteras Federales | LGPL-V3 |
 
 # Licenses
 * This repository is licensed under (LGPL-V3)
