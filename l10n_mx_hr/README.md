@@ -7,9 +7,12 @@ Sistema de de recursos humanos, calculo de nómina, timbrado CFDI 4.0 y compleme
 
 ## Contenido
 1. Catálogos necesarios para nómina SAT CFDI 4.0 y complemento de nómina 1.2
-2. Nuevas vistas para integrar campos necesarios para nómina de México
-3. Funciones y procedimientos para certificar en pruebas y producción
-4. Documentación de configuración y uso
+2. Integración de un calendario de nóminas.
+3. Integración de días festivos
+4. Integración automatica de nóminas
+5. Nuevas vistas para integrar campos necesarios para nómina de México
+6. Funciones y procedimientos para certificar en pruebas y producción
+7. Documentación de configuración y uso
 
 ## Compra de folios de certificación CFDI, soporte, capacitación, implantación, cambios y nuevos tipos de nómina.
 Sitio Web: https://www.gecoerp.mx/nomina
